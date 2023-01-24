@@ -1,1 +1,2 @@
-# AIforMedicine_1_AI.for.Medical.Diagnosis
+# AI for Medical Diagnosis
+## (Coursera - AI for Medicine Specialization)
